@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "firstname": "Avinas",
+      "lastname": "Nayak",
+      "email": "avinas.nayak@gmail.com",
+      "password": "Hello@123",
+      "id": 1
+    },
+    {
+      "firstname": "Rahul",
+      "lastname": "Yadav",
+      "email": "rahul.yadav123@gmail.com",
+      "password": "Index@123",
+      "id": 2
+    },
+    {
+      "firstname": "Vincent",
+      "lastname": "Json",
+      "email": "vincent.json1122@gmail.com",
+      "password": "Vincemt@123",
+      "id": 3
+    },
+    {
+      "firstname": "Nandini",
+      "lastname": "Deshai",
+      "email": "nandini.deshai123@gmail.com",
+      "password": "Nandini@123",
+      "id": 4
+    },
+    {
+      "firstname": "Naveen",
+      "lastname": "Ravi",
+      "email": "naveen.ravi@gmail.com",
+      "password": "Hello@World1122",
+      "id": 5
+    },
+    {
+      "firstname": "Deepika",
+      "lastname": "Makra",
+      "email": "deepika_makra@gmail.com",
+      "password": "Deepika.Makra@1234",
+      "id": 6
+    },
+    {
+      "firstname": "Arishbabu",
+      "lastname": "Muthusamy",
+      "email": "arish_muthusamy@gmail.com",
+      "password": "Arish_Muthhu@1234",
+      "id": 7
+    }
+  ],
+  "offers": [
+    {
+      "user": "avinas.nayak@gmail.com",
+      "firstname": "Avinas",
+      "carNumber": "KA12ST1341",
+      "carModel": "Swift Desire",
+      "start": "Infosys Gate6",
+      "destination": "Silk Board",
+      "seatsLeft": "3",
+      "id": 1
+    },
+	{
+      "user": "deepika_makra@gmail.com",
+      "firstname": "Deepika",
+      "carNumber": "KA45SP1343",
+      "carModel": "Maruti Suzuki",
+      "start": "Infosys Gate3",
+      "destination": "Silk Board",
+      "seatsLeft": "4",
+      "id": 2
+    }
+  ],
+  "rides": []
+}
